@@ -1,6 +1,6 @@
 package com.sbh.olans.homelons;
 
-public class DemoClass {
+public class DemoClass  {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
